@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "May_Starters_34",
+        "May_Long22",
+        "May Long Two 2022 Division 4"
+    ],
+    "files.associations": {
+        "*.cpp": "cpp",
+        "iostream": "cpp",
+        "random": "cpp",
+        "ostream": "cpp"
+    }
+}
